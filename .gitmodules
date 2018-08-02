@@ -1,3 +1,6 @@
 [submodule "autoload"]
 	path = autoload
 	url = git@github.com:junegunn/vim-plug.git
+[submodule "plugged/vim-javascript"]
+	path = plugged/vim-javascript
+	url = git@github.com:hellatan/vim-javascript.git
